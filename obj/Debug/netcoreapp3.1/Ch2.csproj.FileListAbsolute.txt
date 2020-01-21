@@ -1,0 +1,10 @@
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.exe
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.deps.json
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.runtimeconfig.json
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.runtimeconfig.dev.json
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.dll
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\bin\Debug\netcoreapp3.1\Ch2.pdb
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\obj\Debug\netcoreapp3.1\Ch2.AssemblyInfoInputs.cache
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\obj\Debug\netcoreapp3.1\Ch2.AssemblyInfo.cs
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\obj\Debug\netcoreapp3.1\Ch2.dll
+C:\Users\Megan\OneDrive\Desktop\IT 242\Book 1\Ch2_Introduction to C#\Ch2\obj\Debug\netcoreapp3.1\Ch2.pdb
